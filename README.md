@@ -114,18 +114,6 @@ A responsive and bilingual **Portuguese / English** personal portfolio created t
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](./profile/stats.svg)
-
-![Top Languages](./profile/top-langs.svg)
-
-</div>
-
----
-
 ## 🎯 What I'm Looking For
 
 I'm interested in opportunities where I can continue developing my skills as a **Software Engineer**, especially in:
