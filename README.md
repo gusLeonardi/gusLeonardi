@@ -118,9 +118,9 @@ A responsive and bilingual **Portuguese / English** personal portfolio created t
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gusLeonardi&show_icons=true&theme=github_dark&hide_border=true" />
+![GitHub Stats](./profile/stats.svg)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusLeonardi&layout=compact&theme=github_dark&hide_border=true" />
+![Top Languages](./profile/top-langs.svg)
 
 </div>
 
